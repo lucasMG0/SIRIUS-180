@@ -6,7 +6,7 @@
   está descrita abaixo, além disso, adicione suas horas de trabalho, somente como medida
   administrativa para caso algum dia precise.
 
-  Total de horas gastas: 18h
+  Total de horas gastas: 52h
 
   Seu princípio de funcionamento é relativamente simples, apenas busca controlar um braço robótico
   que contém as seguintes características:
